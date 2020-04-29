@@ -4,12 +4,12 @@ Python Open Ended Project
 This project uses Gizeh, MoviePy, Pyglet, Tkinter library of python to create basic vector animations.
 
 
-![gui.bmp]
+![](gui.bmp)
 
-![ani1.png]
+![](ani1.png)
 
-![ani2.png]
+![](ani2.png)
 
-![ani3.png]
+![](ani3.png)
 
-![ani4.png]
+![](ani4.png)
